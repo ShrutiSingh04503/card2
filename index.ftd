@@ -33,7 +33,7 @@ spacing.fixed.px: 50
 
 
 -- ftd.image:
-src:assets/lucknow.jpg
+src:https://media.istockphoto.com/id/502698782/vector/lucknow-skyline-vector-illustration-linear-style.jpg?s=612x612&w=0&k=20&c=ZRKFGmYmaaSoT-4yqwtwcLa9S03jhuRt-zePahIU6kI=
 height: fill-container
 border-radius.px: 20
 
