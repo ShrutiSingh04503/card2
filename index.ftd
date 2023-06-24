@@ -34,7 +34,7 @@ spacing.fixed.px: 50
 
 
 -- ftd.image:
-src:img/lucknow.jpg
+src:assets/lucknow.jpg
 height: fill-container
 border-radius.px: 20
 
